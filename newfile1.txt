@@ -1,0 +1,3 @@
+this is new file1.txt
+More Lines in newfile1
+Adding some more lines

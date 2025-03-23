@@ -1,0 +1,4 @@
+this is file1
+some lines
+writing more lines for staging area
+writing some more lines for staging area
